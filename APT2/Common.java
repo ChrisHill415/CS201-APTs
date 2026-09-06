@@ -1,9 +1,7 @@
-import java.util.ArrayList;
 public class Common {
      public int count (String a, String b) 
      {
         int count = 0;
-        ArrayList<String> repeats = new ArrayList<>();
 
         for(int i = 0; i <a.length(); i ++)
             {
