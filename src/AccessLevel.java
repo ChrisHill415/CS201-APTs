@@ -3,7 +3,7 @@
         String test = "";
          for (int i = 0; i < rights.length; i++) {
             
-             if(minPermission < rights[i])
+             if(minPermission <= rights[i])
                 test = test +  "A";
             else 
                 test = test + "D";
