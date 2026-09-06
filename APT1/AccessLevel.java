@@ -7,6 +7,10 @@
                 test = test +  "A";
             else 
                 test = test + "D";
+<<<<<<< HEAD
+=======
+             // fill in code here
+>>>>>>> c7bcfb6bb74840f509d4ce6c499a7963a450c743
          }
          return test; 
      }
