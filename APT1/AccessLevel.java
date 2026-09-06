@@ -7,7 +7,6 @@
                 test = test +  "A";
             else 
                 test = test + "D";
-             // fill in code here
          }
          return test; 
      }
